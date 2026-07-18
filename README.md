@@ -9,14 +9,14 @@
 │   ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝                        │
 │                                                                              │
 │   hemesh@rice:~$ whoami                                                      │
-│   hemesh chadalavada                                                         │
+│   hemesh                                                                     │
 │                                                                              │
 │   hemesh@rice:~$ cat contact.txt                                             │
 │   email:   hemesh@rice.edu                                                   │
 │   web:     hemesh.tech                                                       │
 │                                                                              │
 │   hemesh@rice:~$ echo $STATUS                                                │
-│   always building random stuff ▮                                             │
+│   always on random sidequests▮                                               │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 </pre>
